@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: single
 title: "Jiaxuan Han"
 permalink: /
 author_profile: true

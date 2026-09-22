@@ -5,15 +5,31 @@ title: Jiaxuan Han
 
 # Jiaxuan Han
 
-Welcome to my academic homepage.
+Researcher in Urban Biodiversity and Bird Conservation
 
-I am a researcher interested in urban biodiversity, bird ecology, and conservation. My research focuses on understanding how urban green and blue spaces support bird communities and how cities can promote biodiversity conservation.
+## About Me
 
-I completed my master's degree at Huazhong Agricultural University, where I conducted research on bird diversity in urban lake parks.
+I am a researcher interested in urban biodiversity, bird ecology, and conservation.
 
-My current research interests include:
+I completed my master's degree at Huazhong Agricultural University, where I studied how urban lake parks support bird diversity in Wuhan, China.
+
+
+## Research Interests
 
 - Urban biodiversity conservation
 - Bird community ecology
+- Bird community ecology
 - Green-blue infrastructure
 - Human–nature interactions
+
+
+## Research Experience
+
+My master's research focused on the relationship between landscape factors and bird communities in urban lake parks.
+
+I conducted monthly field surveys across six urban lake parks in Wuhan from 2023 to 2024, recording 108 bird species and analyzing how urban landscape features influenced bird diversity.
+
+
+## Contact
+
+Email: ishanjiaxuan@gmail.com

@@ -1,11 +1,13 @@
 ---
+layout: about
+title: "Jiaxuan Han"
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+
 # Jiaxuan Han
 
 Researcher in Urban Biodiversity and Bird Conservation
@@ -15,6 +17,8 @@ Researcher in Urban Biodiversity and Bird Conservation
 I am a researcher interested in urban biodiversity, bird ecology, and conservation.
 
 I completed my master's degree at Huazhong Agricultural University, where I studied how urban lake parks support bird diversity in Wuhan, China.
+
+My research focuses on understanding how urban green and blue spaces support bird communities and how cities can promote biodiversity conservation.
 
 ## Research Interests
 
@@ -31,4 +35,4 @@ I conducted monthly field surveys across six urban lake parks in Wuhan from 2023
 
 ## Contact
 
-Email: shanjiaxuan@gmail.com
+Email: ishanjiaxuan@gmail.com

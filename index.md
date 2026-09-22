@@ -1,11 +1,19 @@
-
 ---
 layout: about
-title: 中文主页
+title: Jiaxuan Han
 ---
 
-# 韩佳璇
+# Jiaxuan Han
 
-欢迎访问我的中文学术主页。
+Welcome to my academic homepage.
 
-我的研究兴趣主要集中于城市生物多样性、鸟类生态与生态修复。
+I am a researcher interested in urban biodiversity, bird ecology, and conservation. My research focuses on understanding how urban green and blue spaces support bird communities and how cities can promote biodiversity conservation.
+
+I completed my master's degree at Huazhong Agricultural University, where I conducted research on bird diversity in urban lake parks.
+
+My current research interests include:
+
+- Urban biodiversity conservation
+- Bird community ecology
+- Green-blue infrastructure
+- Human–nature interactions

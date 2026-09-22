@@ -1,7 +1,5 @@
 ---
-layout: about
-title: Jiaxuan Han
-permalink: /
+layout: home
 author_profile: true
 ---
 

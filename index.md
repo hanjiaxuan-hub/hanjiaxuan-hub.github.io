@@ -1,6 +1,8 @@
 ---
 layout: about
 title: Jiaxuan Han
+permalink: /
+author_profile: true
 ---
 
 # Jiaxuan Han

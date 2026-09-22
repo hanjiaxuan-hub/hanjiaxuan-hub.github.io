@@ -6,12 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-# Jiaxuan Han
-
-Researcher in Urban Biodiversity and Bird Conservation
-
-
 ## About Me
 
 I am a researcher interested in urban biodiversity, bird ecology, and conservation.
